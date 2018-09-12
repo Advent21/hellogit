@@ -15,3 +15,5 @@
 		void setx(int a);
 		void sety(float b);
 };
+#endif
+
