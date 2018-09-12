@@ -6,8 +6,8 @@ using namespace std;
 	int main
 {
 
-   	vector<int>v1;
-	vector<int>v2= {5,8,22};
+   	vector<Data>v1;
+	vector<Data>v2= {5,8,22};
 
 	v1.pushback(12);
 	v1.pushback(17);
@@ -30,7 +30,7 @@ using namespace std;
 	cout<<a.gety()<<endl;
   }
 
-	return 0;
+	
 }
 
 
