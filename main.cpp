@@ -1,3 +1,4 @@
+#include<iostream>
 #include<vector>
 #include"Data.h"
 using namespace std;
