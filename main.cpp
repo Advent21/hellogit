@@ -22,6 +22,8 @@ using namespace std;
    {
 	cout<<a.getx()<<" ";
 	cout<<a.gety()<<endl;
+   }
+
 }
 
 
