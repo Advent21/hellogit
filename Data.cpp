@@ -28,7 +28,7 @@
     }
 
 
-	void Data::sety(float a)
+	void Data::sety(float b)
     {
 
 	y = a;
