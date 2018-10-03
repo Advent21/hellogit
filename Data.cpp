@@ -31,7 +31,7 @@
 	void Data::sety(float b)
     {
 
-	y = a;
+	y = b;
     }
 
 
