@@ -26,7 +26,7 @@ using namespace std;
 		
 	void bubblesort(auto& Data)
 	{
-	cout<<endl<<"Mystery 2"<<endl<<"---------------------"<<endl;
+	cout<<endl<<"bubble sort"<<endl<<"---------------------"<<endl;
 
 	for ( int i = 0 ; i < Data.size() ; i++)
 			{
